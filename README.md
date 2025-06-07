@@ -1,20 +1,18 @@
 📌 **Objetivo**: 
-Criar um modelo de classificação supervisionada para detecção de câncer de mama através de um conjunto de dados.  
+Criar um modelo de regressão para prever o custo do seguro com base em características pessoais.  
 
 ---
 
-**Sobre o conjunto de dados**: "`Breast Cancer Wisconsin` é um dataset conhecido para problemas de classificação e contém informações sobre tumores mamários, com o objetivo de classificar os tumores como benignos (não cancerígenos) ou malignos (cancerígenos) com base em características extraídas das imagens de biópsias. Esse dataset foi coletado por meio de exames de diagnóstico, utilizando a técnica de imagem chamada mamografia".
+**Sobre o conjunto de dados**: "O conjunto de dados `Medical Cost Personal Datasets`, também conhecido como Insurance Dataset, é um dos exemplos clássicos usados no livro "Machine Learning with R" de Brett Lantz, e também amplamente utilizado em tutoriais de regressão. Ele contém informações sobre despesas médicas pessoais cobradas por seguradoras de saúde, com o objetivo de prever o custo do seguro com base em características pessoais".
 
 
 **Créditos e mais informações**: 
 
-
-*  [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
-*  [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+*  [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 **Linguagem e bibliotecas**:
 
-* Python, Jupyter Notebook, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Joblib
+* Python, Jupyter Notebook, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
 **Para visualizar o documento**: clique na pasta `Projeto` e `modeloML.ipynb`
 
